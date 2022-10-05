@@ -1,0 +1,36 @@
+id: 4
+surname: Иванов
+name: Иван
+tel: 89158453654
+description: сосед
+
+id: 6
+surname: Кучин
+name: Александр
+tel: 89527459614
+description: друг
+
+id: 7
+surname: Кривобоков
+name: Михаил
+tel: 89845265478
+description: приятель
+
+id: 8
+surname: Иванов
+name: Иван
+tel: 89524875269
+description: сосед
+
+id: 9
+surname: Петров
+name: Игорь
+tel: 89637653426
+description: сосед
+
+id: 10
+surname: Белкин
+name: Иван
+tel: 89648389467
+description: нет
+

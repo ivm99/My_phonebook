@@ -1,0 +1,52 @@
+2022:October:04 - 19:01;Create new contact;{'id': 21, 'surname': 'Кошелев', 'name': 'Михаил', 'tel': '3535768', 'description': 'цуепкншшлн'}
+2022:October:04 - 19:02;Delete contact;{'id': 21, 'surname': 'Кошелев', 'name': 'Михаил', 'tel': '3535768', 'description': 'цуепкншшлн'}
+2022:October:04 - 19:16;Delete contact;{'id': 20, 'surname': 'Булкин', 'name': 'Сергей', 'tel': '4536768', 'description': 'укекгрвегоен'}
+2022:October:04 - 19:21;Contact change;new contact{'id': 17, 'surname': 'Петров', 'name': 'Петр', 'tel': '35465', 'description': 'увпнрнаш'}
+2022:October:04 - 19:23;Export all contact in .csv
+2022:October:05 - 10:35;Create new contact;{'id': 20, 'surname': 'Баранов', 'name': 'Алексей', 'tel': '89629875423', 'description': 'друг'}
+2022:October:05 - 10:38;Create new contact;{'id': 21, 'surname': 'Баранкин', 'name': 'Михаил', 'tel': '89653426345', 'description': 'сосед'}
+2022:October:05 - 11:00;Create new contact;{'id': 22, 'surname': '0', 'name': 'фвакпер', 'tel': '345657', 'description': 'упеоагл'}
+2022:October:05 - 11:01;Delete contact;{'id': 22, 'surname': '0', 'name': 'фвакпер', 'tel': '345657', 'description': 'упеоагл'}
+2022:October:05 - 11:01;Delete contact;{'id': 22, 'surname': '0', 'name': 'фвакпер', 'tel': '345657', 'description': 'упеоагл'}
+2022:October:05 - 11:03;Create new contact;{'id': 22, 'surname': '0', 'name': 'фвпавр', 'tel': '342668', 'description': 'фувпывапол'}
+2022:October:05 - 11:31;Contact change;new contact{'id': 1, 'surname': 'qwer', 'name': 'Иван', 'tel': '345357', 'description': 'выпвапо'}
+2022:October:05 - 11:48;Contact change;new contact{'id': 22, 'surname': '123', 'name': 'фвпавр', 'tel': '342668', 'description': 'фувпывапол'}
+2022:October:05 - 11:49;Contact change;new contact{'id': 22, 'surname': '12345', 'name': 'фвпавр', 'tel': '342668', 'description': 'фувпывапол'}
+2022:October:05 - 11:57;Contact change;new contact{'id': 1, 'surname': 'Иванов', 'name': 'Иван', 'tel': '345357', 'description': 'выпвапо'}
+2022:October:05 - 12:05;Contact change;new contact{'id': 8, 'surname': 'Иванов', 'name': 'Петр', 'tel': '235454787', 'description': 'афукпоал'}
+2022:October:05 - 13:17;Create new contact;{'id': 23, 'surname': 'Чернов', 'name': 'Василий', 'tel': '89521239876', 'description': 'приятель'}
+2022:October:05 - 13:17;Delete contact;{'id': 22, 'surname': '12345', 'name': 'фвпавр', 'tel': '342668', 'description': 'фувпывапол'}
+2022:October:05 - 13:18;Contact change;new contact{'id': 19, 'surname': 'Стулов', 'name': 'Антон', 'tel': '89622567654', 'description': 'ывапаоепрерл'}
+2022:October:05 - 13:20;Contact change;new contact{'id': 3, 'surname': 'Кучин', 'name': 'Александр', 'tel': '89628764353', 'description': 'ывпаоорпл'}
+2022:October:05 - 13:20;Contact change;new contact{'id': 1, 'surname': 'Иванов', 'name': 'Иван', 'tel': '89504562765', 'description': 'выпвапо'}
+2022:October:05 - 13:21;Contact change;new contact{'id': 1, 'surname': 'Иванов', 'name': 'Иван', 'tel': '89504562765', 'description': 'друг'}
+2022:October:05 - 13:21;Contact change;new contact{'id': 2, 'surname': 'Петров', 'name': 'Василий', 'tel': '346678', 'description': 'одноклассник'}
+2022:October:05 - 13:22;Contact change;new contact{'id': 3, 'surname': 'Кучин', 'name': 'Александр', 'tel': '89628764353', 'description': 'сосед'}
+2022:October:05 - 13:56;Create new contact;{'id': 24, 'surname': 'qwer', 'name': 'reyty', 'tel': '12445', 'description': 'qwettjhf'}
+2022:October:05 - 14:02;Delete contact;{'id': 8, 'surname': 'Иванов', 'name': 'Иван', 'tel': '235454787', 'description': 'афукпоал'}
+2022:October:05 - 14:06;Delete contact;{'id': 5, 'surname': 'Петров', 'name': 'Василий', 'tel': '346678', 'description': 'ывпвоарлпо'}
+2022:October:05 - 14:06;Create new contact;{'id': 9, 'surname': 'Петров', 'name': 'Игорь', 'tel': '89637653426', 'description': 'сосед'}
+2022:October:05 - 14:07;Contact change;new contact{'id': 4, 'surname': 'Иванов', 'name': 'Иван', 'tel': '345357', 'description': 'сосед'}
+2022:October:05 - 14:21;Export all contact in .csv
+2022:October:05 - 14:23;Export all contact in .csv
+2022:October:05 - 14:24;Export all contact in .csv
+2022:October:05 - 14:26;Export all contact in .csv
+2022:October:05 - 14:29;Export all contact in .csv
+2022:October:05 - 14:51;Create new contact;{'id': 10, 'surname': 'Белкин', 'name': 'Иван', 'tel': '89648389467', 'description': 'нет'}
+2022:October:05 - 15:02;Export all contact in .csv
+2022:October:05 - 15:07;Export all contact in .csv
+2022:October:05 - 15:08;Export all contact in .csv
+2022:October:05 - 15:14;Export all contact in .csv
+2022:October:05 - 15:15;Export all contact in .csv
+2022:October:05 - 15:17;Export all contact in .csv
+2022:October:05 - 15:18;Export all contact in .csv
+2022:October:05 - 15:23;Export all contact in .csv
+2022:October:05 - 15:23;Export all contact in .csv
+2022:October:05 - 17:22;Import all contact from .txt
+2022:October:05 - 17:23;Import all contact from .txt
+2022:October:05 - 18:53;Import all contact from .txt
+2022:October:05 - 18:56;Import all contact from .txt
+2022:October:05 - 18:56;Contact change;new contact{'id': 8, 'surname': 'Иванов', 'name': 'Федор', 'tel': '89524875269', 'description': 'сосед'}
+2022:October:05 - 19:10;Create new contact;{'id': 11, 'surname': 'Крутов', 'name': 'Денис', 'tel': '89023141234', 'description': 'приятель'}
+2022:October:05 - 19:11;Export all contact in .csv
+2022:October:05 - 19:11;Import all contact from .txt
