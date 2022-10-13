@@ -5,8 +5,7 @@ import check
 import search
 import logger
 import delete
-import modol_export
-import modol_import
+import import_export
 import modify
 
 
@@ -58,9 +57,9 @@ def main_func():
         #Экспорт        
         elif punct_menu == 6:           
             if check.check_directory(): 
-                modol_export.export()
+                import_export.export()
         elif punct_menu == 7: 
-                modol_import.import_file()
+                import_export.import_file()
         #Завершение работы
         else:
             print('Работа со справочников закончена')

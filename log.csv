@@ -50,3 +50,19 @@
 2022:October:05 - 19:10;Create new contact;{'id': 11, 'surname': 'Крутов', 'name': 'Денис', 'tel': '89023141234', 'description': 'приятель'}
 2022:October:05 - 19:11;Export all contact in .csv
 2022:October:05 - 19:11;Import all contact from .txt
+2022:October:05 - 21:04;Create new contact;{'id': 11, 'surname': 'Рыжов', 'name': 'Сергей', 'tel': '8987634345', 'description': 'друг'}
+2022:October:05 - 21:06;Delete contact;{'id': 8, 'surname': 'Иванов', 'name': 'Иван', 'tel': '89524875269', 'description': 'сосед'}
+2022:October:05 - 21:07;Contact change;new contact{'id': 4, 'surname': 'Иванов', 'name': 'Иван', 'tel': '89158453654', 'description': 'товарищ'}
+2022:October:05 - 21:09;Export all contact in .csv
+2022:October:05 - 21:10;Import all contact from .txt
+2022:October:13 - 11:30;Create new contact;{'id': 11, 'surname': 'Сидоров', 'name': 'Петр', 'tel': '89652364765', 'description': 'Сосед'}
+2022:October:13 - 17:55;Delete contact;{'id': 4, 'surname': 'Иванов', 'name': 'Иван', 'tel': '89158453654', 'description': 'сосед'}
+2022:October:13 - 17:56;Create new contact;{'id': 12, 'surname': 'Петров', 'name': 'Иван', 'tel': '654462278', 'description': 'Приятель'}
+2022:October:13 - 18:04;Contact change;new contact{'id': 12, 'surname': 'Петров', 'name': 'Максим', 'tel': '654462278', 'description': 'Приятель'}
+2022:October:13 - 18:50;Create new contact;{'id': 13, 'surname': '/menu', 'name': '/menu', 'tel': '/menu', 'description': '/menu'}
+2022:October:13 - 18:55;Create new contact;{'id': 14, 'surname': 'Седов', 'name': 'Антон', 'tel': 8765262732, 'description': 'Работа'}
+2022:October:13 - 19:06;Create new contact;{'id': 15, 'surname': 'Hdhdgg', 'name': 'Hdhdg', 'tel': 89876543444, 'description': 'Gdhdheheggeg'}
+2022:October:13 - 19:12;Delete contact;{'id': 15, 'surname': 'Hdhdgg', 'name': 'Hdhdg', 'tel': 89876543444, 'description': 'Gdhdheheggeg'}
+2022:October:13 - 19:14;Delete contact;{'id': 13, 'surname': '/menu', 'name': '/menu', 'tel': '/menu', 'description': '/menu'}
+2022:October:13 - 19:16;Export all contact in .txt
+2022:October:13 - 19:18;Import all contact from .txt

@@ -8,20 +8,12 @@ def read_json(file):
     except:
         print('В базе еще нет ни одного контакта :(')
 
-def search_contact(data):
-    try:
-        name = input('Введите имя контакта, номер телефона или комментарий: ')
-        found_contacts = []
-        temp = {1:"surname", 2:"name", 3:"tel", 4:"description"}
-        for index, contact in enumerate(data):
-            if name.lower() in contact["surname"].lower() or name.lower() in contact["name"].lower() or name.lower() in contact["tel"].lower() or name.lower() in contact["description"].lower():
-                found_contacts.append(contact)    
-                print(f'Найден контакт: {contact["id"]} {contact["surname"]} {contact["name"]} {contact["tel"]} {contact["description"]}')    #Выводим заданный контакт      
-        if found_contacts != []: return found_contacts
-        else: 
-            print('Такого контакта нет в базе.')
-            return found_contacts
-    except:
-        print('В базе такого контакта нет')
+def search_contact(data, text):
+    found_contacts = []
+    for index, contact in enumerate(data):
+        if text.lower() in contact["surname"].lower() or text.lower() in contact["name"].lower() or text.lower() in str(contact["tel"]) or text.lower() in contact["description"].lower():
+            found_contacts.append(contact)    
+            print(f'Найден контакт: {contact["id"]} {contact["surname"]} {contact["name"]} {contact["tel"]} {contact["description"]}')    #Выводим заданный контакт      
+    return found_contacts
 
 

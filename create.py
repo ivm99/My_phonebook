@@ -1,20 +1,26 @@
 import json
 import logger
+import logging
 
+from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update, InlineKeyboardMarkup, InlineKeyboardButton, KeyboardButton
+from telegram.ext import (
+    Updater,
+    CommandHandler,
+    MessageHandler,
+    Filters,
+    ConversationHandler,
+)
+import config
 
-def gen_person():
-    surname = input('Введите фамилию:')
-    name = input('Введите имя:')
-    tel = input('Введите номер телефона:')
-    description = input('Дополнительная информация:')
-
+def gen_person(surname, name, phone_number, comment):
     person = {
         'id':0,
         'surname': surname,
         'name': name,
-        'tel': tel,
-        'description': description
+        'tel': phone_number,
+        'description': comment
     }
+    print(person)
     return person
 
 

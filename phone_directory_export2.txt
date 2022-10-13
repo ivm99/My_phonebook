@@ -1,9 +1,3 @@
-id: 4
-surname: Иванов
-name: Иван
-tel: 89158453654
-description: сосед
-
 id: 6
 surname: Кучин
 name: Александр
@@ -33,4 +27,22 @@ surname: Белкин
 name: Иван
 tel: 89648389467
 description: нет
+
+id: 11
+surname: Сидоров
+name: Петр
+tel: 89652364765
+description: Сосед
+
+id: 12
+surname: Петров
+name: Максим
+tel: 654462278
+description: Приятель
+
+id: 14
+surname: Седов
+name: Антон
+tel: 8765262732
+description: Работа
 
